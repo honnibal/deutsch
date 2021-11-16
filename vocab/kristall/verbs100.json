@@ -1,0 +1,822 @@
+[
+  {
+    "text": "sein",
+    "auxiliary": "sein",
+    "present": "ist",
+    "praeteritum": "war",
+    "perfect": "gewesen",
+    "gloss": "be"
+  },
+  {
+    "text": "haben",
+    "auxiliary": "haben",
+    "present": "hat",
+    "praeteritum": "hatte",
+    "perfect": "gehabt",
+    "gloss": "have"
+  },
+  {
+    "text": "werden",
+    "auxiliary": "sein",
+    "present": "wird",
+    "praeteritum": "wurde",
+    "perfect": [
+      "geworden",
+      "worden"
+    ],
+    "gloss": "become"
+  },
+  {
+    "text": "k\u00f6nnen",
+    "auxiliary": "haben",
+    "present": "kann",
+    "praeteritum": "konnte",
+    "perfect": "gekonnt",
+    "gloss": "can, be able to"
+  },
+  {
+    "text": "m\u00fcssen",
+    "auxiliary": "haben",
+    "present": [
+      "mu\u00df",
+      "muss"
+    ],
+    "praeteritum": "musste",
+    "perfect": "gemusst",
+    "gloss": "must, have to"
+  },
+  {
+    "text": "sagen",
+    "auxiliary": "haben",
+    "present": "sagt",
+    "praeteritum": "sagte",
+    "perfect": "gesagt",
+    "gloss": "say"
+  },
+  {
+    "text": "machen",
+    "auxiliary": "haben",
+    "present": "macht",
+    "praeteritum": "machte",
+    "perfect": "gemacht",
+    "gloss": "do, make"
+  },
+  {
+    "text": "geben",
+    "auxiliary": "haben",
+    "present": "gibt",
+    "praeteritum": "gab",
+    "perfect": "gegeben",
+    "gloss": "give"
+  },
+  {
+    "text": "kommen",
+    "auxiliary": "sein",
+    "present": "kommt",
+    "praeteritum": "kam",
+    "perfect": "gekommen",
+    "gloss": "come"
+  },
+  {
+    "text": "sollen",
+    "auxiliary": "haben",
+    "present": "soll",
+    "praeteritum": "sollte",
+    "perfect": "gesollt",
+    "gloss": "should, ought to"
+  },
+  {
+    "text": "wollen",
+    "auxiliary": "haben",
+    "present": "will",
+    "praeteritum": "wollte",
+    "perfect": "gewollt",
+    "gloss": "want"
+  },
+  {
+    "text": "gehen",
+    "auxiliary": "sein",
+    "present": "geht",
+    "praeteritum": "ging",
+    "perfect": "gegangen",
+    "gloss": "go"
+  },
+  {
+    "text": "wissen",
+    "auxiliary": "haben",
+    "present": "wei\u00df",
+    "praeteritum": "wusste",
+    "perfect": "gewusst",
+    "gloss": "know"
+  },
+  {
+    "text": "sehen",
+    "auxiliary": "haben",
+    "present": "sieht",
+    "praeteritum": "sah",
+    "perfect": "gesehen",
+    "gloss": "see"
+  },
+  {
+    "text": "lassen",
+    "auxiliary": "haben",
+    "present": "l\u00e4sst",
+    "praeteritum": "lie\u00df",
+    "perfect": "gelassen",
+    "gloss": "let, allow"
+  },
+  {
+    "text": "stehen",
+    "auxiliary": "haben/sein",
+    "present": "steht",
+    "praeteritum": "stand",
+    "perfect": "gestanden",
+    "gloss": "stand"
+  },
+  {
+    "text": "finden",
+    "auxiliary": "haben",
+    "present": "findet",
+    "praeteritum": "fand",
+    "perfect": "gefunden",
+    "gloss": "find"
+  },
+  {
+    "text": "bleiben",
+    "auxiliary": "sein",
+    "present": "bleibt",
+    "praeteritum": "blieb",
+    "perfect": "geblieben",
+    "gloss": "stay, remain"
+  },
+  {
+    "text": "liegen",
+    "auxiliary": "haben/sein",
+    "present": "liegt",
+    "praeteritum": "lag",
+    "perfect": "gelegen",
+    "gloss": "lie, be lying"
+  },
+  {
+    "text": "hei\u00dfen",
+    "auxiliary": "haben",
+    "present": "hei\u00dft",
+    "praeteritum": "hie\u00df",
+    "perfect": [
+      "gehei\u00dfen",
+      "gehei\u00dft"
+    ],
+    "gloss": "be called"
+  },
+  {
+    "text": "denken",
+    "auxiliary": "haben",
+    "present": "denkt",
+    "praeteritum": "dachte",
+    "perfect": "gedacht",
+    "gloss": "think"
+  },
+  {
+    "text": "nehmen",
+    "auxiliary": "haben",
+    "present": "nimmt",
+    "praeteritum": "nahm",
+    "perfect": "genommen",
+    "gloss": "take"
+  },
+  {
+    "text": "tun",
+    "auxiliary": "haben",
+    "present": "tut",
+    "praeteritum": "tat",
+    "perfect": "getan",
+    "gloss": "do"
+  },
+  {
+    "text": "d\u00fcrfen",
+    "auxiliary": "haben",
+    "present": "darf",
+    "praeteritum": "durfte",
+    "perfect": "gedurft",
+    "gloss": "may, be allowed"
+  },
+  {
+    "text": "glauben",
+    "auxiliary": "haben",
+    "present": "glaubt",
+    "praeteritum": "glaubte",
+    "perfect": "geglaubt",
+    "gloss": "believe"
+  },
+  {
+    "text": "halten",
+    "auxiliary": "haben",
+    "present": "h\u00e4lt",
+    "praeteritum": "hielt",
+    "perfect": "gehalten",
+    "gloss": "stop, hold"
+  },
+  {
+    "text": "nennen",
+    "auxiliary": "haben",
+    "present": "nennt",
+    "praeteritum": "nannte",
+    "perfect": "genannt",
+    "gloss": "name, call (a name)"
+  },
+  {
+    "text": "m\u00f6gen",
+    "auxiliary": "haben",
+    "present": "mag",
+    "praeteritum": "mochte",
+    "perfect": "gemocht",
+    "gloss": "like"
+  },
+  {
+    "text": "zeigen",
+    "auxiliary": "haben",
+    "present": "zeigt",
+    "praeteritum": "zeigte",
+    "perfect": "gezeigt",
+    "gloss": "show"
+  },
+  {
+    "text": "f\u00fchren",
+    "auxiliary": "haben",
+    "present": "f\u00fchrt",
+    "praeteritum": "f\u00fchrte",
+    "perfect": "gef\u00fchrt",
+    "gloss": "lead"
+  },
+  {
+    "text": "sprechen",
+    "auxiliary": "haben",
+    "present": "spricht",
+    "praeteritum": "sprach",
+    "perfect": "gesprochen",
+    "gloss": "speak"
+  },
+  {
+    "text": "bringen",
+    "auxiliary": "haben",
+    "present": "bringt",
+    "praeteritum": "brachte",
+    "perfect": "gebracht",
+    "gloss": "bring, take"
+  },
+  {
+    "text": "leben",
+    "auxiliary": "haben",
+    "present": "lebt",
+    "praeteritum": "lebte",
+    "perfect": "gelebt",
+    "gloss": "live"
+  },
+  {
+    "text": "fahren",
+    "auxiliary": "haben/sein",
+    "present": "f\u00e4hrt",
+    "praeteritum": "fuhr",
+    "perfect": "gefahren",
+    "gloss": "drive, ride, go"
+  },
+  {
+    "text": "meinen",
+    "auxiliary": "haben",
+    "present": "meint",
+    "praeteritum": "meinte",
+    "perfect": "gemeint",
+    "gloss": "think, have an opinion"
+  },
+  {
+    "text": "fragen",
+    "auxiliary": "haben",
+    "present": "fragt",
+    "praeteritum": "fragte",
+    "perfect": "gefragt",
+    "gloss": "ask"
+  },
+  {
+    "text": "kennen",
+    "auxiliary": "haben",
+    "present": "kennt",
+    "praeteritum": "kannte",
+    "perfect": "gekannt",
+    "gloss": "know"
+  },
+  {
+    "text": "gelten",
+    "auxiliary": "haben",
+    "present": "gilt",
+    "praeteritum": "galt",
+    "perfect": "gegolten",
+    "gloss": "be valid"
+  },
+  {
+    "text": "stellen",
+    "auxiliary": "haben",
+    "present": "stellt",
+    "praeteritum": "stellte",
+    "perfect": "gestellt",
+    "gloss": "place, set"
+  },
+  {
+    "text": "spielen",
+    "auxiliary": "haben",
+    "present": "spielt",
+    "praeteritum": "spielte",
+    "perfect": "gespielt",
+    "gloss": "play"
+  },
+  {
+    "text": "arbeiten",
+    "auxiliary": "haben",
+    "present": "arbeitet",
+    "praeteritum": "arbeitete",
+    "perfect": "gearbeitet",
+    "gloss": "work"
+  },
+  {
+    "text": "brauchen",
+    "auxiliary": "haben",
+    "present": "braucht",
+    "praeteritum": "brauchte",
+    "perfect": "gebraucht",
+    "gloss": "need"
+  },
+  {
+    "text": "folgen",
+    "auxiliary": "haben/sein",
+    "present": "folgt",
+    "praeteritum": "folgte",
+    "perfect": "gefolgt",
+    "gloss": "follow"
+  },
+  {
+    "text": "lernen",
+    "auxiliary": "haben",
+    "present": "lernt",
+    "praeteritum": "lernte",
+    "perfect": "gelernt",
+    "gloss": "learn"
+  },
+  {
+    "text": "bestehen",
+    "auxiliary": "haben",
+    "present": "besteht",
+    "praeteritum": "bestand",
+    "perfect": "bestanden",
+    "gloss": "exist, insist, pass (an exam)"
+  },
+  {
+    "text": "verstehen",
+    "auxiliary": "haben",
+    "present": "versteht",
+    "praeteritum": "verstand",
+    "perfect": "verstanden",
+    "gloss": "understand"
+  },
+  {
+    "text": "setzen",
+    "auxiliary": "haben/sein",
+    "present": "setzt",
+    "praeteritum": "setzte",
+    "perfect": "gesetzt",
+    "gloss": "set, put, place"
+  },
+  {
+    "text": "bekommen",
+    "auxiliary": "haben/sein",
+    "present": "bekommt",
+    "praeteritum": "bekam",
+    "perfect": "bekommen",
+    "gloss": "get, receive"
+  },
+  {
+    "text": "beginnen",
+    "auxiliary": "haben",
+    "present": "beginnt",
+    "praeteritum": "begann",
+    "perfect": "begonnen",
+    "gloss": "begin"
+  },
+  {
+    "text": "erz\u00e4hlen",
+    "auxiliary": "haben",
+    "present": "erz\u00e4hlt",
+    "praeteritum": "erz\u00e4hlte",
+    "perfect": "erz\u00e4hlt",
+    "gloss": "narrate, tell"
+  },
+  {
+    "text": "versuchen",
+    "auxiliary": "haben",
+    "present": "versucht",
+    "praeteritum": "versuchte",
+    "perfect": "versucht",
+    "gloss": "try, attempt"
+  },
+  {
+    "text": "schreiben",
+    "auxiliary": "haben",
+    "present": "schreibt",
+    "praeteritum": "schrieb",
+    "perfect": "geschrieben",
+    "gloss": "write"
+  },
+  {
+    "text": "laufen",
+    "auxiliary": "haben/sein",
+    "present": "l\u00e4uft",
+    "praeteritum": "lief",
+    "perfect": "gelaufen",
+    "gloss": "run"
+  },
+  {
+    "text": "erkl\u00e4ren",
+    "auxiliary": "haben",
+    "present": "erkl\u00e4rt",
+    "praeteritum": "erkl\u00e4rte",
+    "perfect": "erkl\u00e4rt",
+    "gloss": "explain"
+  },
+  {
+    "text": "entsprechen",
+    "auxiliary": "haben",
+    "present": "entspricht",
+    "praeteritum": "entsprach",
+    "perfect": "entsprochen",
+    "gloss": "correspond"
+  },
+  {
+    "text": "sitzen",
+    "auxiliary": "haben/sein",
+    "present": "sitzt",
+    "praeteritum": "sa\u00df",
+    "perfect": "gesessen",
+    "gloss": "sit"
+  },
+  {
+    "text": "ziehen",
+    "auxiliary": "haben/sein",
+    "present": "zieht",
+    "praeteritum": "zog",
+    "perfect": "gezogen",
+    "gloss": "pull, move"
+  },
+  {
+    "text": "scheinen",
+    "auxiliary": "haben",
+    "present": "scheint",
+    "praeteritum": "schien",
+    "perfect": "geschienen",
+    "gloss": "shine, seem, appear"
+  },
+  {
+    "text": "fallen",
+    "auxiliary": "sein",
+    "present": "f\u00e4llt",
+    "praeteritum": "fiel",
+    "perfect": "gefallen",
+    "gloss": "fall"
+  },
+  {
+    "text": "geh\u00f6ren",
+    "auxiliary": "haben",
+    "present": "geh\u00f6rt",
+    "praeteritum": "geh\u00f6rte",
+    "perfect": "geh\u00f6rt",
+    "gloss": "belong"
+  },
+  {
+    "text": "entstehen",
+    "auxiliary": "sein",
+    "present": "entsteht",
+    "praeteritum": "entstand",
+    "perfect": "entstanden",
+    "gloss": "originate, develop"
+  },
+  {
+    "text": "erhalten",
+    "auxiliary": "haben",
+    "present": "erh\u00e4lt",
+    "praeteritum": "erhielt",
+    "perfect": "erhalten",
+    "gloss": "receive"
+  },
+  {
+    "text": "treffen",
+    "auxiliary": "haben/sein",
+    "present": "trifft",
+    "praeteritum": "traf",
+    "perfect": "getroffen",
+    "gloss": "meet"
+  },
+  {
+    "text": "suchen",
+    "auxiliary": "haben",
+    "present": "sucht",
+    "praeteritum": "suchte",
+    "perfect": "gesucht",
+    "gloss": "search, look for"
+  },
+  {
+    "text": "legen",
+    "auxiliary": "haben",
+    "present": "legt",
+    "praeteritum": "legte",
+    "perfect": "gelegt",
+    "gloss": "lay, put"
+  },
+  {
+    "text": "vor|stellen",
+    "auxiliary": "haben",
+    "present": "vorstellt",
+    "praeteritum": "vorstellte",
+    "perfect": "vorgestellt",
+    "gloss": "introduce, imagine"
+  },
+  {
+    "text": "handeln",
+    "auxiliary": "haben",
+    "present": "handelt",
+    "praeteritum": "handelte",
+    "perfect": "gehandelt",
+    "gloss": "deal, trade"
+  },
+  {
+    "text": "erreichen",
+    "auxiliary": "haben",
+    "present": "erreicht",
+    "praeteritum": "erreichte",
+    "perfect": "erreicht",
+    "gloss": "achieve, reach"
+  },
+  {
+    "text": "tragen",
+    "auxiliary": "haben",
+    "present": "tr\u00e4gt",
+    "praeteritum": "trug",
+    "perfect": "getragen",
+    "gloss": "carry, wear"
+  },
+  {
+    "text": "schaffen",
+    "auxiliary": "haben",
+    "present": "schafft",
+    "praeteritum": "schaffte",
+    "perfect": "geschafft",
+    "gloss": "manage"
+  },
+  {
+    "text": "schaffen",
+    "auxiliary": "haben",
+    "present": "schafft",
+    "praeteritum": "schuf",
+    "perfect": "geschaffen",
+    "gloss": "create"
+  },
+  {
+    "text": "lesen",
+    "auxiliary": "haben",
+    "present": "liest",
+    "praeteritum": "las",
+    "perfect": "gelesen",
+    "gloss": "read"
+  },
+  {
+    "text": "verlieren",
+    "auxiliary": "haben",
+    "present": "verliert",
+    "praeteritum": "verlor",
+    "perfect": "verloren",
+    "gloss": "lose"
+  },
+  {
+    "text": "dar|stellen",
+    "auxiliary": "haben",
+    "present": "darstellt",
+    "praeteritum": "darstellte",
+    "perfect": "dargestellt",
+    "gloss": "depict, portray"
+  },
+  {
+    "text": "erkennen",
+    "auxiliary": "haben",
+    "present": "erkennt",
+    "praeteritum": "erkannte",
+    "perfect": "erkannt",
+    "gloss": "recognize, admit"
+  },
+  {
+    "text": "entwickeln",
+    "auxiliary": "haben",
+    "present": "entwickelt",
+    "praeteritum": "entwickelte",
+    "perfect": "entwickelt",
+    "gloss": "develop"
+  },
+  {
+    "text": "reden",
+    "auxiliary": "haben",
+    "present": "redet",
+    "praeteritum": "redete",
+    "perfect": "geredet",
+    "gloss": "talk"
+  },
+  {
+    "text": "aus|sehen",
+    "auxiliary": "haben",
+    "present": "aussieht",
+    "praeteritum": "aussah",
+    "perfect": "ausgesehen",
+    "gloss": "appear, look (a certain way)"
+  },
+  {
+    "text": "erscheinen",
+    "auxiliary": "sein",
+    "present": "erscheint",
+    "praeteritum": "erschien",
+    "perfect": "erschienen",
+    "gloss": "appear"
+  },
+  {
+    "text": "bilden",
+    "auxiliary": "haben",
+    "present": "bildet",
+    "praeteritum": "bildete",
+    "perfect": "gebildet",
+    "gloss": "form, educate"
+  },
+  {
+    "text": "an|fangen",
+    "auxiliary": "haben",
+    "present": "anf\u00e4ngt",
+    "praeteritum": "anfing",
+    "perfect": "angefangen",
+    "gloss": "begin"
+  },
+  {
+    "text": "erwarten",
+    "auxiliary": "haben",
+    "present": "erwartet",
+    "praeteritum": "erwartete",
+    "perfect": "erwartet",
+    "gloss": "expect"
+  },
+  {
+    "text": "wohnen",
+    "auxiliary": "haben",
+    "present": "wohnt",
+    "praeteritum": "wohnte",
+    "perfect": "gewohnt",
+    "gloss": "live"
+  },
+  {
+    "text": "betreffen",
+    "auxiliary": "haben",
+    "present": "betrifft",
+    "praeteritum": "betraf",
+    "perfect": "betroffen",
+    "gloss": "affect, concern"
+  },
+  {
+    "text": "warten",
+    "auxiliary": "haben",
+    "present": "wartet",
+    "praeteritum": "wartete",
+    "perfect": "gewartet",
+    "gloss": "wait"
+  },
+  {
+    "text": "vergehen",
+    "auxiliary": "haben/sein",
+    "present": "vergeht",
+    "praeteritum": "verging",
+    "perfect": "vergangen",
+    "gloss": "elapse, decay"
+  },
+  {
+    "text": "helfen",
+    "auxiliary": "haben",
+    "present": "hilft",
+    "praeteritum": "half",
+    "perfect": "geholfen",
+    "gloss": "help"
+  },
+  {
+    "text": "gewinnen",
+    "auxiliary": "haben",
+    "present": "gewinnt",
+    "praeteritum": "gewann",
+    "perfect": "gewonnen",
+    "gloss": "win"
+  },
+  {
+    "text": "schlie\u00dfen",
+    "auxiliary": "haben",
+    "present": "schlie\u00dft",
+    "praeteritum": [
+      "schloss",
+      "schlo\u00df"
+    ],
+    "perfect": "geschlossen",
+    "gloss": "close"
+  },
+  {
+    "text": "f\u00fchlen",
+    "auxiliary": "haben",
+    "present": "f\u00fchlt",
+    "praeteritum": "f\u00fchlte",
+    "perfect": "gef\u00fchlt",
+    "gloss": "feel"
+  },
+  {
+    "text": "bieten",
+    "auxiliary": "haben",
+    "present": "bietet",
+    "praeteritum": "bot",
+    "perfect": "geboten",
+    "gloss": "offer"
+  },
+  {
+    "text": "interessieren",
+    "auxiliary": "haben",
+    "present": "interessiert",
+    "praeteritum": "interessierte",
+    "perfect": "interessiert",
+    "gloss": "interest"
+  },
+  {
+    "text": "erinnern",
+    "auxiliary": "haben",
+    "present": "erinnert",
+    "praeteritum": "erinnerte",
+    "perfect": "erinnert",
+    "gloss": "remember"
+  },
+  {
+    "text": "ergeben",
+    "auxiliary": "haben",
+    "present": "ergibt",
+    "praeteritum": "ergab",
+    "perfect": "ergeben",
+    "gloss": "result in"
+  },
+  {
+    "text": "an|bieten",
+    "auxiliary": "haben",
+    "present": "anbietet",
+    "praeteritum": "anbot",
+    "perfect": "angeboten",
+    "gloss": "offer"
+  },
+  {
+    "text": "studieren",
+    "auxiliary": "haben",
+    "present": "studiert",
+    "praeteritum": "studierte",
+    "perfect": "studiert",
+    "gloss": "study"
+  },
+  {
+    "text": "verbinden",
+    "auxiliary": "haben",
+    "present": "verbindet",
+    "praeteritum": "verband",
+    "perfect": "verbunden",
+    "gloss": "connect, link"
+  },
+  {
+    "text": "an|sehen",
+    "auxiliary": "haben",
+    "present": "ansieht",
+    "praeteritum": "ansah",
+    "perfect": "angesehen",
+    "gloss": "look at, watch"
+  },
+  {
+    "text": "fehlen",
+    "auxiliary": "haben",
+    "present": "fehlt",
+    "praeteritum": "fehlte",
+    "perfect": "gefehlt",
+    "gloss": "lack, be missing, be absent"
+  },
+  {
+    "text": "bedeuten",
+    "auxiliary": "haben",
+    "present": "bedeutet",
+    "praeteritum": "bedeutete",
+    "perfect": "bedeutet",
+    "gloss": "mean"
+  },
+  {
+    "text": "vergleichen",
+    "auxiliary": "haben",
+    "present": "vergleicht",
+    "praeteritum": "verglich",
+    "perfect": "verglichen",
+    "gloss": "compare"
+  }
+]
