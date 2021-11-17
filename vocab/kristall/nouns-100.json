@@ -1,0 +1,746 @@
+[
+  {
+    "text": "Jahr",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "year"
+  },
+  {
+    "text": "Beispiel",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "example"
+  },
+  {
+    "text": "Zeit",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "time"
+  },
+  {
+    "text": "Frau",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "woman / wife / Mrs."
+  },
+  {
+    "text": "Mensch",
+    "article": "der",
+    "plural": "-en",
+    "gloss": "human being / person"
+  },
+  {
+    "text": "Kind",
+    "article": "das",
+    "plural": "-er",
+    "gloss": "child"
+  },
+  {
+    "text": "Tag",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "day"
+  },
+  {
+    "text": "Mann",
+    "article": "der",
+    "plural": "-(\u00e4)-er",
+    "gloss": "man"
+  },
+  {
+    "text": "Land",
+    "article": "das",
+    "plural": "-(\u00e4) er",
+    "gloss": "land / country / state"
+  },
+  {
+    "text": "Frage",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "question"
+  },
+  {
+    "text": "Haus",
+    "article": "das",
+    "plural": "-(\u00e4u)-er",
+    "gloss": "house"
+  },
+  {
+    "text": "Leute",
+    "article": "die",
+    "plural": "(pl.)",
+    "gloss": "people"
+  },
+  {
+    "text": "Arbeit",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "work / "
+  },
+  {
+    "text": "Prozent",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "percent"
+  },
+  {
+    "text": "Stadt",
+    "article": "die",
+    "plural": "-(\u00e4)-e",
+    "gloss": "city"
+  },
+  {
+    "text": "Herr",
+    "article": "der",
+    "plural": "-en",
+    "gloss": "gentleman / Mr."
+  },
+  {
+    "text": "Problem",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "problem"
+  },
+  {
+    "text": "Welt",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "world"
+  },
+  {
+    "text": "Recht",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "right / law / justice;"
+  },
+  {
+    "text": "Ende",
+    "article": "das",
+    "plural": "-n",
+    "gloss": "end"
+  },
+  {
+    "text": "Million",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "million"
+  },
+  {
+    "text": "Schule",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "school"
+  },
+  {
+    "text": "Woche",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "week"
+  },
+  {
+    "text": "Leben",
+    "article": "das",
+    "plural": "-",
+    "gloss": "life"
+  },
+  {
+    "text": "Grund",
+    "article": "der",
+    "plural": "-(\u00fc)-e",
+    "gloss": "reason / basis"
+  },
+  {
+    "text": "Auge",
+    "article": "das",
+    "plural": "-n",
+    "gloss": "eye"
+  },
+  {
+    "text": "Geld",
+    "article": "das",
+    "plural": "-er",
+    "gloss": "money"
+  },
+  {
+    "text": "Sache",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "thing"
+  },
+  {
+    "text": "Art",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "kind / type"
+  },
+  {
+    "text": "Bereich",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "area / region"
+  },
+  {
+    "text": "Weg",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "way"
+  },
+  {
+    "text": "Stunde",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "hour"
+  },
+  {
+    "text": "Name",
+    "article": "der",
+    "plural": "-n",
+    "gloss": "name"
+  },
+  {
+    "text": "Geschichte",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "history / story"
+  },
+  {
+    "text": "Gesellschaft",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "society / company"
+  },
+  {
+    "text": "Kopf",
+    "article": "der",
+    "plural": "-(\u00f6)-e",
+    "gloss": "head"
+  },
+  {
+    "text": "Paar",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "pair / couple"
+  },
+  {
+    "text": "M\u00f6glichkeit",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "possibility"
+  },
+  {
+    "text": "Unternehmen",
+    "article": "das",
+    "plural": "\u2013",
+    "gloss": "enterprise / company"
+  },
+  {
+    "text": "Bild",
+    "article": "das",
+    "plural": "-er",
+    "gloss": "picture"
+  },
+  {
+    "text": "Buch",
+    "article": "das",
+    "plural": "-er",
+    "gloss": "book"
+  },
+  {
+    "text": "Wasser",
+    "article": "das",
+    "plural": "-(\u00e4)-",
+    "gloss": "water"
+  },
+  {
+    "text": "Stelle",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "place"
+  },
+  {
+    "text": "Form",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "form / shape"
+  },
+  {
+    "text": "Entwicklung",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "development"
+  },
+  {
+    "text": "Monat",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "month"
+  },
+  {
+    "text": "Familie",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "family"
+  },
+  {
+    "text": "Morgen",
+    "article": "der",
+    "plural": "\u2013",
+    "gloss": "morning"
+  },
+  {
+    "text": "Abend",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "evening"
+  },
+  {
+    "text": "Aufgabe",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "assignment / task / job"
+  },
+  {
+    "text": "Universit\u00e4t",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "university"
+  },
+  {
+    "text": "Uni",
+    "article": "die",
+    "plural": "-s",
+    "gloss": "short for university"
+  },
+  {
+    "text": "Sinn",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "sense / meaning"
+  },
+  {
+    "text": "Staat",
+    "article": "der",
+    "plural": "-en",
+    "gloss": "state"
+  },
+  {
+    "text": "Ziel",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "goal / destination"
+  },
+  {
+    "text": "Freund",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "friend"
+  },
+  {
+    "text": "Thema",
+    "article": "das",
+    "plural": "Themen",
+    "gloss": "theme / topic / subject"
+  },
+  {
+    "text": "Person",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "person"
+  },
+  {
+    "text": "Euro",
+    "article": "der",
+    "plural": "-s",
+    "gloss": "euro (unit of currency of the EU)"
+  },
+  {
+    "text": "Nacht",
+    "article": "die",
+    "plural": "-(\u00e4)-e",
+    "gloss": "night"
+  },
+  {
+    "text": "Ding",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "thing"
+  },
+  {
+    "text": "Blick",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "look / view / glance"
+  },
+  {
+    "text": "Platz",
+    "article": "der",
+    "plural": "-(\u00e4)-e",
+    "gloss": "place / room / square"
+  },
+  {
+    "text": "Zahl",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "number"
+  },
+  {
+    "text": "System",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "system"
+  },
+  {
+    "text": "Uhr",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "clock"
+  },
+  {
+    "text": "Elter",
+    "article": "das",
+    "plural": "-n",
+    "gloss": "parent"
+  },
+  {
+    "text": "Stra\u00dfe",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "street"
+  },
+  {
+    "text": "Minute",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "minute"
+  },
+  {
+    "text": "Gruppe",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "group"
+  },
+  {
+    "text": "Wert",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "value"
+  },
+  {
+    "text": "Gesicht",
+    "article": "das",
+    "plural": "-er",
+    "gloss": "face"
+  },
+  {
+    "text": "Sprache",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "language"
+  },
+  {
+    "text": "Anfang",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "beginning"
+  },
+  {
+    "text": "Ort",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "place / town / location"
+  },
+  {
+    "text": "Moment",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "moment"
+  },
+  {
+    "text": "Folge",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "result / consequence / series / episode"
+  },
+  {
+    "text": "Interesse",
+    "article": "das",
+    "plural": "-n",
+    "gloss": "interest"
+  },
+  {
+    "text": "Milliarde",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "billion"
+  },
+  {
+    "text": "Rolle",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "role"
+  },
+  {
+    "text": "T\u00fcr",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "door"
+  },
+  {
+    "text": "Sch\u00fcler",
+    "article": "der",
+    "plural": "\u2013",
+    "gloss": "pupil"
+  },
+  {
+    "text": "Bedeutung",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "meaning"
+  },
+  {
+    "text": "Text",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "text"
+  },
+  {
+    "text": "Ergebnis",
+    "article": "das",
+    "plural": "-se",
+    "gloss": "result"
+  },
+  {
+    "text": "Krieg",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "war"
+  },
+  {
+    "text": "Weise",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "way / manner"
+  },
+  {
+    "text": "Regierung",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "government"
+  },
+  {
+    "text": "St\u00fcck",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "piece"
+  },
+  {
+    "text": "Wohnung",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "apartment / flat"
+  },
+  {
+    "text": "Gespr\u00e4ch",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "conversation"
+  },
+  {
+    "text": "Meter",
+    "article": "der",
+    "plural": "\u2013",
+    "gloss": "meter"
+  },
+  {
+    "text": "Punkt",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "dot / point / period"
+  },
+  {
+    "text": "Situation",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "situation"
+  },
+  {
+    "text": "Lehrer",
+    "article": "der",
+    "plural": "\u2013",
+    "gloss": "teacher"
+  },
+  {
+    "text": "Preis",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "price / prize"
+  },
+  {
+    "text": "Abbildung",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "illustration"
+  },
+  {
+    "text": "Begriff",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "concept / idea / term"
+  },
+  {
+    "text": "Funktion",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "function"
+  },
+  {
+    "text": "Boden",
+    "article": "der",
+    "plural": "-(\u00f6)",
+    "gloss": "ground / floor / bottom"
+  },
+  {
+    "text": "Jahrhundert",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "century"
+  },
+  {
+    "text": "Sohn",
+    "article": "der",
+    "plural": "-(\u00f6)-e",
+    "gloss": "son"
+  },
+  {
+    "text": "Tochter",
+    "article": "die",
+    "plural": "-(\u00f6)",
+    "gloss": "daughter"
+  },
+  {
+    "text": "Werk",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "work; factory"
+  },
+  {
+    "text": "Stimme",
+    "article": "die",
+    "plural": "-n",
+    "gloss": "voice"
+  },
+  {
+    "text": "Rahmen",
+    "article": "der",
+    "plural": "\u2013",
+    "gloss": "frame / framework"
+  },
+  {
+    "text": "Richtung",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "direction"
+  },
+  {
+    "text": "Programm",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "program / schedule"
+  },
+  {
+    "text": "Angst",
+    "article": "die",
+    "plural": "-(\u00c4)-e",
+    "gloss": "fear / anxiety"
+  },
+  {
+    "text": "Information",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "information"
+  },
+  {
+    "text": "Kunst",
+    "article": "die",
+    "plural": "-(\u00fc)-e",
+    "gloss": "art"
+  },
+  {
+    "text": "Musik",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "music"
+  },
+  {
+    "text": "Politik",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "politics"
+  },
+  {
+    "text": "Beruf",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "occupation / job / profession"
+  },
+  {
+    "text": "Regel",
+    "article": "die ",
+    "plural": "-n",
+    "gloss": "rule"
+  },
+  {
+    "text": "Schritt",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "step"
+  },
+  {
+    "text": "Absatz",
+    "article": "der",
+    "plural": "-(\u00e4)-e",
+    "gloss": "sales / paragraph / heel"
+  },
+  {
+    "text": "Gott",
+    "article": "der",
+    "plural": "-(\u00f6)-er",
+    "gloss": "god / God"
+  },
+  {
+    "text": "Auto",
+    "article": "das",
+    "plural": "-s",
+    "gloss": "car"
+  },
+  {
+    "text": "Beziehung",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "relation / relationship"
+  },
+  {
+    "text": "Erfahrung",
+    "article": "die",
+    "plural": "-en",
+    "gloss": "experience"
+  },
+  {
+    "text": "Tisch",
+    "article": "der",
+    "plural": "-e",
+    "gloss": "table"
+  },
+  {
+    "text": "Zukunft",
+    "article": "die",
+    "plural": "-(\u00fc)-e",
+    "gloss": "future"
+  },
+  {
+    "text": "Spiel",
+    "article": "das",
+    "plural": "-e",
+    "gloss": "game"
+  }
+]
